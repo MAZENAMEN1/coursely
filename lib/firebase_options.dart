@@ -50,22 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBGoQYEuF7i9WWX0LrFHRrPf-Hp3FYtEps',
-    appId: '1:754417275926:android:95f27ca74819851d09d137',
-    messagingSenderId: '754417275926',
-    projectId: 'todofirebase-f3f30',
-    databaseURL: 'https://todofirebase-f3f30-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'todofirebase-f3f30.appspot.com',
+    apiKey: 'AIzaSyC6QdquWBPpoAs9EFQULwNCkE0LS_3NsU0',
+    appId: '1:454697089013:android:44dffaaa92f7f9d70452bc',
+    messagingSenderId: '454697089013',
+    projectId: 'coursely-bf217',
+    storageBucket: 'coursely-bf217.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAeOsOu8GhSXAmuMfT__hB4XLAUqX6YhqY',
-    appId: '1:754417275926:ios:55fe2a1d2fe1b0af09d137',
-    messagingSenderId: '754417275926',
-    projectId: 'todofirebase-f3f30',
-    databaseURL: 'https://todofirebase-f3f30-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'todofirebase-f3f30.appspot.com',
-    androidClientId: '754417275926-uo49a994ut8qpj0sk1b1bj0ar3vvru6g.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDLRZBCl9bhm4k5aSQlso9p-m07_-qsIFQ',
+    appId: '1:454697089013:ios:b2152b7028edfe760452bc',
+    messagingSenderId: '454697089013',
+    projectId: 'coursely-bf217',
+    storageBucket: 'coursely-bf217.firebasestorage.app',
     iosBundleId: 'com.debi.coursely',
   );
+
 }

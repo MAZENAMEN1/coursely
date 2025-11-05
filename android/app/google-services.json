@@ -1,88 +1,26 @@
 {
   "project_info": {
-    "project_number": "754417275926",
-    "firebase_url": "https://todofirebase-f3f30-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "todofirebase-f3f30",
-    "storage_bucket": "todofirebase-f3f30.appspot.com"
+    "project_number": "454697089013",
+    "project_id": "coursely-bf217",
+    "storage_bucket": "coursely-bf217.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:754417275926:android:95f27ca74819851d09d137",
+        "mobilesdk_app_id": "1:454697089013:android:44dffaaa92f7f9d70452bc",
         "android_client_info": {
           "package_name": "com.debi.coursely"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "754417275926-g26nbt8dhuj13qhrcc6o070606jksffq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBGoQYEuF7i9WWX0LrFHRrPf-Hp3FYtEps"
+          "current_key": "AIzaSyC6QdquWBPpoAs9EFQULwNCkE0LS_3NsU0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "754417275926-g26nbt8dhuj13qhrcc6o070606jksffq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "754417275926-unvg73ivk06fgko5hmd981vpc0ui730p.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "fsgsdf"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:754417275926:android:fe48182842ca822d09d137",
-        "android_client_info": {
-          "package_name": "com.example.todofirebase"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "754417275926-uo49a994ut8qpj0sk1b1bj0ar3vvru6g.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.todofirebase",
-            "certificate_hash": "60f69097cce3cbf3781400294a482e569f4b1911"
-          }
-        },
-        {
-          "client_id": "754417275926-g26nbt8dhuj13qhrcc6o070606jksffq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBGoQYEuF7i9WWX0LrFHRrPf-Hp3FYtEps"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "754417275926-g26nbt8dhuj13qhrcc6o070606jksffq.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "754417275926-unvg73ivk06fgko5hmd981vpc0ui730p.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "fsgsdf"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
