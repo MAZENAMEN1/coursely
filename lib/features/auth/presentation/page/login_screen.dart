@@ -6,6 +6,7 @@ import 'package:coursely/core/widgets/custom_text_field.dart';
 import 'package:coursely/core/widgets/main_button.dart';
 import 'package:coursely/core/widgets/password_text_form_field.dart';
 import 'package:coursely/core/utils/text_styles.dart';
+import 'package:coursely/features/auth/data/models/user_type_enum.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:gap/gap.dart';
@@ -37,7 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 child: Padding(
                   padding: const EdgeInsets.all(20.0),
                   child: Text(
-                    'Log In As',
+                    'Log In As"{$UserTypeEnum}"',
                     style: TextStyles.textStyle32.copyWith(
                       color: AppColors.secondaryColor,
                     ),
